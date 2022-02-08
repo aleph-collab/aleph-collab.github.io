@@ -1,7 +1,6 @@
 ---
 layout: splash
-permalink: home
-hidden: true
+permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: \assets\images\fullbarns_comp.png
