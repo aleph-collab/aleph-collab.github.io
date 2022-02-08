@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Aleph"
 title_separator          : ""
 subtitle                 : "Remote Education" # site tagline that appears below site title in masthead
-name                     : &name "Test"
-description              : &description "Testing"
+name                     : 
+description              :
 url                      : "https://alephinst.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : "aleph-collab/aleph-home" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : *name
+  name             : "Farukh"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : ""
