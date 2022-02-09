@@ -4,14 +4,14 @@ permalink: /
 title: Remote Tutoring
 header:
   overlay_color: "#5e616c"
-  overlay_image: assets\images\compare-fibre-JiOFFI3W7IA-unsplash.jpg
+  overlay_image: /assets/images/unsplash_header.jpg
   actions:
     - label: "<i class='fas fa-fw fa-calendar-alt'></i> Schedule a trial today!"
       url: "/docs/quick-start-guide/"
 excerpt: >
     Online instruction & curriculum tailored to each student.
 feature_row:
-  - image_path: assets\images\fullbarns_comp.png
+  - image_path: /assets/images/fullbarns_comp.png
     alt: "curriculums"
     title: "Modular Curriculums"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
