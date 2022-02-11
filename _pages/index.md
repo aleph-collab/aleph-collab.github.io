@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: Remote Education
+title: Online Learning
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/unsplash_header.jpg
@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-fw fa-calendar-alt'></i> Schedule a trial lesson today!"
       url: "/docs/quick-start-guide/"
 excerpt: >
-    Online instruction tailored to each student.
+    Education tailored to each student.
 feature_row:
   - image_path: /assets/images/building.jpg
     alt: "steps logo"
@@ -35,6 +35,12 @@ feature_row:
 ---
 
 {% include feature_row %}
-# Find out more!
+
+## What does Aleph mean?
+
+
+## Who are we?
+
+
 
 To find out more, schedule a trial, or find out pricing, contact us here! 
