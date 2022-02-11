@@ -1,6 +1,8 @@
 # main links
 main:
+  - title: "Contact Us"
+    url: https://alephinst.com/contact
   - title: "Curriculums"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: https://alephinst.com/curriculums
   - title: "Log-in"
     url: https://mmistakes.github.io/minimal-mistakes/about/
