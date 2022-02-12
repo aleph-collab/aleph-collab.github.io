@@ -29,9 +29,8 @@ feature_row:
 # Curriculums
 
 Our curriculums are tailored to figure out what each student needs to focus on while maintaining
+To get started, contact us!
 
 {% include feature_row %}
 
-## Who are we?
 
-To find out more, schedule a trial, or find out pricing, contact us here! 
