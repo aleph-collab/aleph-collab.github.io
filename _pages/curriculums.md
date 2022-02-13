@@ -2,6 +2,9 @@
 layout: splash
 permalink: /curriculums
 title: Curriculums
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/unsplash_header.jpg
 feature_row:
   - image_path: /assets/images/tests.jpg
     alt: "tests logo"
@@ -25,11 +28,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Explore Courses"      
 ---
-
-# Curriculums
-
-Our curriculums are tailored to figure out what each student needs to focus on while maintaining
-To get started, contact us!
 
 {% include feature_row %}
 
