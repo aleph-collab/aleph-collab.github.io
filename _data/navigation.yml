@@ -1,8 +1,17 @@
 # main links
 main:
+  - title: "About"
+    url: https://alephinst.com/about
   - title: "Contact Us"
-    url: https://alephinst.com/contact
+    url: https://alephinst.com/#contact
   - title: "Curriculums"
     url: https://alephinst.com/curriculums
+    dropdown:
+      - title: Standardized Tests
+        url: https://alephinst.com/curriculums/tests
+      - title: Computer Science
+        url: https://alephinst.com/curriculums/cs
+      - title: Mathematics
+        url: https://alephinst.com/curriculums/maths
   - title: "Log-in"
     url: https://mmistakes.github.io/minimal-mistakes/about/
