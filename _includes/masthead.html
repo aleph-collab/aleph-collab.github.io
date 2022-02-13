@@ -15,6 +15,13 @@
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              {%- if link.dropdown -%}
+              <ul class="dropdown">
+                {%- for drop_link in link.dropdown -%}
+                  <li><a href="{{ drop_link.url }}">{{ drop_link.title }}</a></li>
+                {%- endfor -%}
+              </ul>
+              {% endif %}
             </li>
           {%- endfor -%}
         </ul>
