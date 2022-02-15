@@ -1,37 +1,18 @@
 ---
 layout: splash
-permalink: /curriculums
-title: Curriculums
+permalink: /curriculums/cs
+title: Standardized Tests
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/unsplash_header.jpg
 feature_row:
-  - image_path: /assets/images/tests.jpg
-    alt: "tests logo"
-    title: "Standardized Tests"
+  - image_path: /assets/images/cs101.jpg
+    alt: "computer science 101 logo"
+    title: ""
     excerpt: ""
-    url: "/curriculums/tests/"
-    btn_class: "btn--info"
-    btn_label: "Explore Courses"
-  - image_path: /assets/images/compsci.jpg
-    alt: "computer science logo"
-    title: "Computer Science"
-    excerpt: ""
-    url: "/curriculums/cs/"
-    btn_class: "btn--info"
-    btn_label: "Explore Courses"
-  - image_path: /assets/images/maths.jpg
-    alt: "mathematics logo"
-    title: "Mathematics"
-    excerpt: ""
-    url: "/curriculums/maths/"
-    btn_class: "btn--info"
-    btn_label: "Explore Courses"      
 ---
 
-Our curriculums were designed from the ground-up and are 100% modular. We assess each students foundations before beginning to create custom coursework tailored to a students needs. Additionally, we believe in reaffirming concepts through self-discovery rather through rote-practice.
-
-Our general subjects currently encompass the subjects listed below. Click on each respective button to explore our specific coursework! 
+Video Goes Here
 
 {% include feature_row %}
 

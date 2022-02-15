@@ -8,7 +8,7 @@ header:
   actions:
     - label: "<i class='fas fa-fw fa-calendar-alt'></i> Schedule a trial lesson today"
       url: "mailto:{{ site.email }}"
-    - label: "<i class='fa fa-question-circle'></i> How it works"
+    - label: "<i class='fa fa-question-circle'></i> How Aleph works"
       url: "https://alephinst.com/about"
 excerpt: >
     Education tailored to each student.
@@ -17,7 +17,7 @@ feature_row:
     alt: "steps logo"
     title: "Modular Curriculums"
     excerpt: "Each course is tailored to a student and their unique foundational needs and goals, all while fostering successful academic habits."
-    url: "/docs/configuration/"
+    url: "/curriculums/"
     btn_class: "btn--info"
     btn_label: "Learn more"
   - image_path: /assets/images/collab.png
