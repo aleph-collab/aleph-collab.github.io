@@ -8,16 +8,21 @@ header:
 feature_row:
   - image_path: /assets/images/psat.jpg
     alt: "psat logo"
-    title: ""
-    excerpt: ""
+    title: "Objectives"
+    excerpt: "* Learn test-taking techniques to maximize points scored under tight time crunch.\n  
+* Get introduced to the SAT test-taking environment and expectations.\n  
+* Structure a well-rounded and comprehensive knowledge base of all 3 tested subjects within the PSAT."
   - image_path: /assets/images/sat.jpg
     alt: "sat logo"
-    title: ""
-    excerpt: ""
+    title: "Objectives"
+    excerpt:  "* Learn test-taking & essay-writing techniques to maximize points scored under tight time crunch.\n  
+* Target and improve on foundational knowledge required to perform objectively well on the SAT.\n  
+* Structure a well-rounded and comprehensive knowledge base of all 3 tested subjects within the SAT."
   - image_path: /assets/images/asvab.jpg
     alt: "asvab logo"
-    title: ""
-    excerpt: ""
+    title: "Objectives"
+    excerpt: "* Establish foundational logic sufficient to score well on all 10 sub-tests.\n  
+* Focus on sub-tests required for desired career goal."
 ---
 
 Video Goes Here

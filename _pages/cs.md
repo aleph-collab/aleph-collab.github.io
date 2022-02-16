@@ -8,8 +8,10 @@ header:
 feature_row:
   - image_path: /assets/images/cs101.jpg
     alt: "computer science 101 logo"
-    title: ""
-    excerpt: ""
+    title: "Objectives"
+    excerpt: "* Understand what a program is, and how it can be written to achieve a goal.\n  
+* Learn the fundementals of algorithms and data-structures in the context of the C-programming language.\n  
+* Learn how to collaboratively create programming projects in a team of different backgrounds and skill-level."
 ---
 
 Video Goes Here

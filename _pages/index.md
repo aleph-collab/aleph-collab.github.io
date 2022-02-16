@@ -47,7 +47,7 @@ feature_row:
       <p style="padding-left:25px;">In the early 20th century, one of these informal institutions devoted to set theory and aleph numbers had attracted students and teachers devoted to the idea of <b>self-discovery</b>, <b>knowledge for the sake of knowledge</b>, and <b>de-mystifying the abstract</b>. We hope to emulate these principles to guide students to academic excellence in a variety of subjects.</p> 
     </div>
     <div class="column-contact" style="padding-left:80px;width:25%;padding-top:20px;">
-      <img src="assets\images\640px-Aleph0.svg.png" width="85%">
+      <img src="assets\images\640px-Aleph0.svg.png" width="100%">
     </div>
   </div>
 </section>
@@ -56,8 +56,8 @@ feature_row:
 ### Who are we?
 <section>
   <div class="row">
-    <div class="column-contact" style="padding-left:70px;width:25%;">
-      <img src="assets\images\aleph-farukh-saidmuratov.png" width="70%">
+    <div class="column-contact" style="padding-left:30px;width:25%;">
+      <img src="assets\images\aleph-farukh-saidmuratov.png" width="90%">
     </div>
     <div class="column-contact" style="width:75%;">
       <p style="padding-left:10px;">We are a group of experienced instructors dedicated to providing well-planned, dynamic, and comprehensive plans to introduce new subjects, improve a student's academic performance, or restructure foundational knowledge.</p> 

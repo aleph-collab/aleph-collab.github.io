@@ -8,16 +8,20 @@ header:
 feature_row:
   - image_path: /assets/images/alg1.jpg
     alt: "tests logo"
-    title: "Algebra 1"
-    excerpt: ""
+    title: "Objectives"
+    excerpt: "* Understand how to simplify & interpret polynomials in order to solve equations and inequalities.\n  
+* Learn how to evaluate and interpret radicals, roots, logarithms, and exponents. \n  
+* Get a good foundation in statistics & probability."
   - image_path: /assets/images/alg2.jpg
     alt: "Algebra 2 logo"
-    title: ""
-    excerpt: ""
+    title: "Objectives"
+    excerpt: "* Learn the fundementals of functions and advanced operations in the realm of Real numbers.\n  
+* Learn how to evaluate and interpret radicals, roots, logarithms, and exponents. \n  
+* Get a good foundation in statistics & probability."
   - image_path: /assets/images/precalc.jpg
     alt: "Pre-calculus logo"
-    title: ""
-    excerpt: ""
+    title: "Objectives"
+    excerpt: "* Reaffirm concepts necessary for success in college-level calculus \n"
 ---
 
 Video Goes Here
