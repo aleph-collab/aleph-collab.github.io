@@ -16,7 +16,10 @@ gallery:
     title: "The PSAT curriculum"
 ---
 
+{% include gallery caption="A students custom page and curriculum!" %}
+
 ### How does Aleph work?
+
 <section>
   <div class="row">
     <p style="padding-left:10px;">When a student is onboarded to our platform we firstly create a custom page that contains links to sessions, helpful resources, completed curriculums, and curriculums currently in-progress.</p> 
@@ -24,7 +27,6 @@ gallery:
   <div class="row">
     <p style="padding-left:10px;">All of our curriculums start with an assessment where the student answers a set of foundational questions that represent the entire curriculum. Our team then generates coursework that addresses the needs of the student to ensure that we focus on critical concepts during sessions. This results in a unique lesson plan for every student!</p> 
   </div> 
-  {% include gallery caption="A students custom page and curriculum!" %}
   <br>
   <div class="row">
     <p style="padding-left:10px;">Once this coursework is generated, an instructor works with the student to assist in studying modules in a one-to-one online session. Our sessions generally last 1-hour.</p>
