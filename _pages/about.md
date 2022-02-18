@@ -5,25 +5,33 @@ title: About Aleph
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/unsplash_header.jpg
+gallery:
+  - url: /assets/images/example-page.png
+    image_path: /assets/images/example-page.png
+    alt: "A student's homepage"
+    title: "A student's homepage"
+  - url: /assets/images/example-curriculum.png
+    image_path: /assets/images/example-curriculum.png
+    alt: "The PSAT curriculum"
+    title: "The PSAT curriculum"
 ---
-
 
 ### How does Aleph work?
 <section>
   <div class="row">
-    <div class="column-contact" style="padding-left:30px;width:25%;">
-      <img src="assets\images\steps_named.jpg" width="100%">
-    </div>
-    <div class="column-contact" style="padding-left:30px;width:75%;">
-      <p style="padding-left:10px;">All of our curriculums start with an assessment where the student answers a set of foundational questions that represent the entire curriculum. Our team then generates coursework that addresses the needs of the student to ensure that we focus on critical concepts during sessions. This results in a unique lesson plan for every student!</p> 
-    </div>
+    <p style="padding-left:10px;">When a student is onboarded to our platform we firstly create a custom page that contains links to sessions, helpful resources, completed curriculums, and curriculums currently in-progress.</p> 
+  </div>
+  <div class="row">
+    <p style="padding-left:10px;">All of our curriculums start with an assessment where the student answers a set of foundational questions that represent the entire curriculum. Our team then generates coursework that addresses the needs of the student to ensure that we focus on critical concepts during sessions. This results in a unique lesson plan for every student!</p> 
   </div> 
+  {% include gallery caption="A students custom page and curriculum!" %}
   <br>
   <div class="row">
-      <p style="padding-left:10px;">Once this coursework is generated, an instructor works with the student to assist in studying modules in a one-to-one online session. Our sessions generally last 1-hour.</p>
-      <p style="padding-left:10px;">In regular intervals, instructors gauge a students progress by either evaluating independent projects or by running through assessments again. Once a student completes their curriculum they can either move onto something new, or go through the curriculum again to evaluate new modules!</p> 
+    <p style="padding-left:10px;">Once this coursework is generated, an instructor works with the student to assist in studying modules in a one-to-one online session. Our sessions generally last 1-hour.</p>
+    <p style="padding-left:10px;">In regular intervals, instructors gauge a students progress by either evaluating independent projects or by running through assessments again. Once a student completes their curriculum they can either move onto something new, or go through the curriculum again to evaluate new modules!</p> 
   </div>
 </section>
+
 <hr>
 
 ### Do we offer homework help?
