@@ -17,21 +17,21 @@ feature_row:
     alt: "steps logo"
     title: "Modular Curriculums"
     excerpt: "Each course is tailored to a student and their unique foundational needs and goals, all while fostering successful academic habits."
-    url: "/curriculums/"
+    url: "/about#how-does-aleph-work"
     btn_class: "btn--info"
     btn_label: "Learn more"
   - image_path: /assets/images/collab.png
     alt: "collaboration logo"
     title: "Collaboration"
     excerpt: "Students have the opportunity to collaborate with other student coders to learn new skills, both technical and interpersonal."
-    url: "/docs/layouts/"
+    url: "/about#collaboration"
     btn_class: "btn--info"
     btn_label: "Learn more"
   - image_path: /assets/images/remote.jpg
     alt: "internet on laptop logo"
     title: "100% Remote"
     excerpt: "Convenient lessons supported by technical tools designed with the students needs in mind."
-    url: "/docs/license/"
+    url: "/about#how-does-aleph-work"
     btn_class: "btn--info"
     btn_label: "Learn more"      
 ---
@@ -56,8 +56,8 @@ feature_row:
 ### Who are we?
 <section>
   <div class="row">
-    <div class="column-contact" style="padding-left:30px;width:25%;">
-      <img src="assets\images\aleph-farukh-saidmuratov.png" width="90%">
+    <div class="column-contact" style="padding-left:50px;width:25%;">
+      <img src="assets\images\fullbarns_comp.png" width="70%">
     </div>
     <div class="column-contact" style="width:75%;">
       <p style="padding-left:10px;">We are a group of experienced instructors dedicated to providing well-planned, dynamic, and comprehensive plans to introduce new subjects, improve a student's academic performance, or restructure foundational knowledge.</p> 
@@ -68,8 +68,7 @@ feature_row:
 
 ### Contact
 
-<p style="padding-left:25px;">For any questions regarding curriculum or pricing, please contact us below.
-We look forward to supporting you or your student accomplish all academic goals!</p> 
+<p style="padding-left:25px;">If you are interested in signing up, or for any questions regarding curriculum or pricing, please contact us below. We look forward to supporting you or your student accomplish all academic goals!</p> 
 
 <section>
 	<div class="row" style="background-color:#F2F3F3;">

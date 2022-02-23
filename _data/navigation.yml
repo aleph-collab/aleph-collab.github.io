@@ -3,15 +3,15 @@ main:
   - title: "About"
     url: https://alephinst.com/about
   - title: "Contact Us"
-    url: https://alephinst.com/#contact
+    url: /#contact
   - title: "Curriculums"
-    url: https://alephinst.com/curriculums
+    url: /curriculums
     dropdown:
       - title: Standardized Tests
-        url: https://alephinst.com/curriculums/tests
+        url: /curriculums/tests
       - title: Computer Science
-        url: https://alephinst.com/curriculums/cs
+        url: /curriculums/cs
       - title: Mathematics
-        url: https://alephinst.com/curriculums/maths
+        url: /curriculums/maths
   - title: "Log-in"
     url: https://github.com/login

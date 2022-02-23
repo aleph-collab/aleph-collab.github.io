@@ -14,9 +14,11 @@ gallery:
     image_path: /assets/images/example-curriculum.png
     alt: "The PSAT curriculum"
     title: "The PSAT curriculum"
+gallery2:
+  - url: /assets/images/replit-example.png
+    image_path: /assets/images/replit-example.png
+    alt: "Collaborative project example"
 ---
-
-{% include gallery caption="A students custom page and curriculum!" %}
 
 ### How does Aleph work?
 
@@ -27,12 +29,13 @@ gallery:
   <div class="row">
     <p style="padding-left:10px;">All of our curriculums start with an assessment where the student answers a set of foundational questions that represent the entire curriculum. Our team then generates coursework that addresses the needs of the student to ensure that we focus on critical concepts during sessions. This results in a unique lesson plan for every student!</p> 
   </div> 
-  <br>
   <div class="row">
-    <p style="padding-left:10px;">Once this coursework is generated, an instructor works with the student to assist in studying modules in a one-to-one online session. Our sessions generally last 1-hour.</p>
+    <p style="padding-left:10px;">Once coursework is generated, an instructor works with the student to assist in studying modules in a one-to-one online session. Our sessions generally last 1-hour.</p>
     <p style="padding-left:10px;">In regular intervals, instructors gauge a students progress by either evaluating independent projects or by running through assessments again. Once a student completes their curriculum they can either move onto something new, or go through the curriculum again to evaluate new modules!</p> 
   </div>
 </section>
+
+{% include gallery caption="A students custom page and curriculum!" %}
 
 <hr>
 
@@ -42,6 +45,17 @@ gallery:
     <p style="padding-left:10px;">Working on homework is reserved for specific homework sessions included with every curriculum subscription. We strive to ensure that sessions are used solely for coursework, that way students can make the best use of thier session time by obtaining or reaffirming concepts.</p> 
   </div>
 </section>
+<hr>
+
+### Oppurtunities for Collaboration
+<section>
+  <div class="row">
+    <p style="padding-left:10px;">Coding skills and computer science knowledge are fundemental pillars of being a good coder, and so is ability to work on a team! For our computer science courses, we offer students the oppurtunity to work with other students of similiar skill and age to create a personal coding project.</p> 
+  </div>
+</section>
+
+{% include gallery id="gallery2" layout="half" caption="An example of a collaborative project in Python" %}
+
 <hr>
 
 ### What is our background?
@@ -59,8 +73,7 @@ gallery:
 
 ### Contact
 
-<p style="padding-left:25px;">For any questions regarding curriculum or pricing, please contact us below.
-We look forward to supporting you or your student accomplish all academic goals!</p> 
+<p style="padding-left:25px;">If you are interested in signing up, or for any questions regarding curriculum or pricing, please contact us below. We look forward to supporting you or your student accomplish all academic goals!</p> 
 
 <section>
 	<div class="row" style="background-color:#F2F3F3;">
