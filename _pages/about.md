@@ -42,7 +42,7 @@ gallery2:
 ### Do we offer homework help?
 <section>
   <div class="row">
-    <p style="padding-left:10px;">Working on homework is reserved for specific homework sessions included with every curriculum subscription. We strive to ensure that sessions are used solely for coursework, that way students can make the best use of thier session time by obtaining or reaffirming concepts.</p> 
+    <p style="padding-left:10px;"> While we strive to ensure that sessions are used solely for coursework we acknowledge that completing and understanding homework is a vital part to a students success. For that reason,students may bring pertinent homework questions to a session, especially when it involves topics covered in our curriculum.</p> 
   </div>
 </section>
 <hr>
