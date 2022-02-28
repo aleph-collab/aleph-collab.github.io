@@ -14,7 +14,11 @@ feature_row:
 * Learn how to collaboratively create programming projects in a team of different backgrounds and skill-level."
 ---
 
-Video Goes Here
+<div style="width:75%;margin-left:auto;margin-right:auto;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/r6alHvrfsWE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<hr>
 
 {% include feature_row %}
 
