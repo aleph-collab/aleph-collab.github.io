@@ -89,6 +89,10 @@ feature_row:
               <label for="message"><b>Message</b></label>
               <textarea name="message" id="message" rows="6"></textarea>
             </div>
+            <div class="field">
+              <label for="ref-name"><b>Referrer</b></label>
+              <input type="text" name="ref-name" id="ref-name" />
+            </div>
             <input type="submit" value="Send Message" class="btn--info" />&nbsp; 
             <input type="reset" value="Clear" class="btn--info" />
           </div>
