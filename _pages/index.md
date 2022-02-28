@@ -99,6 +99,7 @@ feature_row:
       </form>
     </div>
     <div class="column-contact">
+          <hr>
           <b>Email</b><br>
           &nbsp; <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i>
           <a href="mailto:{{ site.email }}">{{ site.email }}</a>
@@ -115,6 +116,7 @@ feature_row:
           <b>Youtube</b><br>
           &nbsp; <i class="fab fa-fw fa-youtube" aria-hidden="true"></i>
           <a href="{{ site.youtube }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">Aleph</a>
+          <hr>
 		</div>
 	</div>
 </section>
