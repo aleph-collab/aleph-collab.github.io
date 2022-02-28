@@ -120,12 +120,3 @@ feature_row:
 		</div>
 	</div>
 </section>
-
-<!--- 
-You've found Alphy the Owl!
- /\ /\ 
-((ovo))
-():::()
-  VVV
-enter this link to visit his habitat https://alephinst.com/owl
----> 
