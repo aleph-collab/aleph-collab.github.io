@@ -28,6 +28,8 @@ feature_row:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/vaihOp5lprg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<hr>
+
 {% include feature_row %}
 
 ### Contact
