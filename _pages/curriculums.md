@@ -16,7 +16,7 @@ feature_row:
   - image_path: /assets/images/compsci.jpg
     alt: "computer science logo"
     title: "Computer Science"
-    excerpt: "Computer Science 101"
+    excerpt: "Computer Science 0001"
     url: "/curriculums/cs"
     btn_class: "btn--info"
     btn_label: "Explore Courses"

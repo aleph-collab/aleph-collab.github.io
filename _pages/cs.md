@@ -6,8 +6,8 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/unsplash_header.jpg
 feature_row:
-  - image_path: /assets/images/cs101.jpg
-    alt: "computer science 101 logo"
+  - image_path: /assets/images/cs_0001.jpg
+    alt: "computer science 0001 logo"
     title: "Objectives"
     excerpt: "* Understand what a program is, and how it can be written to achieve a goal.\n  
 * Learn the fundementals of algorithms and data-structures in the context of the C-programming language.\n  

@@ -15,3 +15,27 @@ main:
         url: /curriculums/maths
   - title: "Log-in"
     url: https://github.com/login
+
+trials:
+  - title: "About"
+    url: https://alephinst.com/about
+  - title: "Contact Us"
+    url: /#contact
+  - title: "Standard Tests Trials"
+    children:
+      - title: PSAT
+        url: /trials/psat
+      - title: SAT
+        url: /trials/psat
+      - title: ASVAB
+        url: /trials/psat
+  - title: "CS Trials"
+    children:
+      - title: CS-0001
+        url: /trials/cs_0001
+    - title: "Maths Trials"
+      children:
+      - title: Algebra 1
+        url: /trials/alg1
+      - title: Algebra 2
+        url: /trials/alg2
