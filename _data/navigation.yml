@@ -26,9 +26,9 @@ trials:
       - title: PSAT
         url: /trials/psat
       - title: SAT
-        url: /trials/psat
+        url: /trials/sat
       - title: ASVAB
-        url: /trials/psat
+        url: /trials/asvab
   - title: "CS Trials"
     children:
       - title: CS-0001
