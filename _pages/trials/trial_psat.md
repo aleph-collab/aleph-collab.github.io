@@ -4,7 +4,7 @@ title: PSAT Trial Session
 ---
 
 <style>
-    body {
+    .e-content {
         font-size: 16px;
     }
 </style>
@@ -18,6 +18,8 @@ title: PSAT Trial Session
     * (C) `g(x) = ux + u`
     * (D) `g(x) = 2ux + u`
 
+    <hr>
+
 2. If  `x² = a + b` and `y² = a + c`, which of the following is equal to `(x²–y²)²`?
 
     * (A) `a² - 2ac + c²`
@@ -25,12 +27,16 @@ title: PSAT Trial Session
     * (C) `4a² - 4abc + c²`
     * (D) `4a² - 2abc + b²c²`
 
+    <hr>
+
 3. One of the two equations in a linear system is 2x + 6y = 10. The system has no solution. Which of the following could be the other equation in the system?
 
     * (A) `x + 3y = 5`
     * (B) `x + 3y = -20`
     * (C) `6x - 2y = 0`
     * (D) `6x + 2y = 10`
+
+    <hr>
 
 4. A certain college had 3,000 students enrolled in 2015. The college predicts that after 2015, the
 number of students enrolled each year will be 2% less than the number of students enrolled the year
@@ -40,6 +46,8 @@ before. Which of the following functions models the relationship between the num
     * (B) `f(x) = 0.98x(3000)ˣ`
     * (C) `f(x) = 3000(0.02)ˣ`
     * (D) `f(x) = 3000(0.98)ˣ`
+
+    <hr>
 
 ## English
 
@@ -135,6 +143,8 @@ before. Which of the following functions models the relationship between the num
     * (C) illustrate Elkin's claim about historical change with a specific example from a creative work.
     * (D) represent the frustrations of people who desire the development of a literature unique to their culture.
 
+    <hr>
+
 2. Which choice from Passage 1 best supports Lim's idea that a country's literature can affect individuals' perceptions of who they are?
 
     * (A) lines 2-4 ("A nation's ... poetry")
@@ -142,12 +152,16 @@ before. Which of the following functions models the relationship between the num
     * (C) lines 13-17 ("At the ... ourselves")
     * (D) lines 22-24 ("In literature .. character")
 
+    <hr>
+
 3. As used in line 51, "stages" most nearly means
 
     * (A) platforms.
     * (B) phases.
     * (C) arenas.
     * (D) levels.
+
+    <hr>
 
 ## Writings
 
@@ -179,12 +193,16 @@ before. Which of the following functions models the relationship between the num
     * (C) humans and being trained
     * (D) humans, were training
 
-2.
+    <hr>
+
+2. 
 
     * (A) NO CHANGE
     * (B) experimenter, who,
     * (C) experimenter who:
     * (D) experimenter; who
+
+    <hr>
 
 3. 
 
@@ -192,3 +210,5 @@ before. Which of the following functions models the relationship between the num
     * (B) inaccessible.
     * (C) insurmountable.
     * (D) unapproachable.
+
+    <hr>

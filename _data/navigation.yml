@@ -17,10 +17,12 @@ main:
     url: https://github.com/login
 
 trials:
-  - title: "About"
-    url: https://alephinst.com/about
-  - title: "Contact Us"
-    url: /#contact
+  - title: "Home"
+    children: 
+      - title: "About"
+        url: https://alephinst.com/about
+      - title: "Contact Us"
+        url: /#contact
   - title: "Standard Tests Trials"
     children:
       - title: PSAT
@@ -33,8 +35,8 @@ trials:
     children:
       - title: CS-0001
         url: /trials/cs_0001
-    - title: "Maths Trials"
-      children:
+  - title: "Maths Trials"
+    children:
       - title: Algebra 1
         url: /trials/alg1
       - title: Algebra 2
