@@ -24,7 +24,9 @@ feature_row:
     excerpt: "* Reaffirm concepts necessary for success in college-level calculus \n"
 ---
 
-Video Goes Here
+<div style="width:75%;margin-left:auto;margin-right:auto;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vaihOp5lprg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 {% include feature_row %}
 
