@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /curriculums/cs
-title: Standardized Tests
+title: Computer Science
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/unsplash_header.jpg
