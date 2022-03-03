@@ -25,6 +25,8 @@ trials:
         url: /#contact
   - title: "Standard Tests Trials"
     children:
+      - title: PSAT Syllabus
+        url: /trials/psat_syllabus
       - title: PSAT
         url: /trials/psat
       - title: SAT
