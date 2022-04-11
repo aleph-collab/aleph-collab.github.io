@@ -1,10 +1,6 @@
 # main links
 main:
-  - title: "About"
-    url: https://alephinst.com/about
-  - title: "Contact Us"
-    url: /#contact
-  - title: "Curriculums"
+  - title: "Subjects"
     url: /curriculums
     dropdown:
       - title: Standardized Tests
@@ -13,6 +9,12 @@ main:
         url: /curriculums/cs
       - title: Mathematics
         url: /curriculums/maths
+  - title: "How it Works"
+    url: /about
+  - title: "Our Team"
+    url: /team
+  - title: "Contact Us"
+    url: /#contact
   - title: "Log-in"
     url: https://github.com/login
 

@@ -1,38 +1,38 @@
 ---
 layout: splash
 permalink: /
-title: Online Learning
+title: Personalized Education
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/unsplash_header.jpg
+  overlay_image: /assets/images/csaba-balazs-q9URsedw330-unsplash.jpg
   actions:
-    - label: "<i class='fas fa-fw fa-calendar-alt'></i> Schedule a trial lesson today"
-      url: "mailto:aleph.instance@gmail.com?subject=Trial Session"
-    - label: "<i class='fa fa-question-circle'></i> How Aleph works"
+    - label: "<i class='fas fa-fw fa-calendar-alt'></i> Try a free session today"
+      url: "https://app.squarespacescheduling.com/schedule.php?owner=25887823"
+    - label: "<i class='fa fa-question-circle'></i> How it works"
       url: "https://alephinst.com/about"
 excerpt: >
-    Education tailored to each student.
+    Coding, College Prep, & Mathematics tailored to each student.
 feature_row:
   - image_path: /assets/images/building.jpg
     alt: "steps logo"
     title: "Modular Curriculums"
-    excerpt: "Each course is tailored to a student and their unique foundational needs and goals, all while fostering successful academic habits."
+    excerpt: "Each course is tailored to a student and their unique foundational needs and goals."
     url: "/about#how-does-aleph-work"
-    btn_class: "btn--info"
+    btn_class: "btn--success"
     btn_label: "Learn more"
   - image_path: /assets/images/collab.png
     alt: "collaboration logo"
     title: "Collaboration"
-    excerpt: "Students have the opportunity to collaborate with other student coders to learn new skills, both technical and interpersonal."
+    excerpt: "Students have the opportunity to collaborate with other student coders to learn new skills."
     url: "/about#collaboration"
-    btn_class: "btn--info"
+    btn_class: "btn--success"
     btn_label: "Learn more"
   - image_path: /assets/images/remote.jpg
     alt: "internet on laptop logo"
     title: "100% Remote"
-    excerpt: "Convenient lessons supported by technical tools designed with the students needs in mind."
+    excerpt: "Lessons supported by online tools designed with the students needs in mind."
     url: "/about#how-does-aleph-work"
-    btn_class: "btn--info"
+    btn_class: "btn--success"
     btn_label: "Learn more"      
 ---
 
@@ -69,13 +69,30 @@ feature_row:
 
 {% include feature_row %}
 
-### What does Aleph mean?
 <section>
+  <div class="row">
+    <h3 style="padding-left:10px;">Who are we?</h3>
+  </div>
+  <div class="row">
+    <div class="column-contact" style="padding-left:50px;width:25%;">
+      <img src="assets\images\fullbarns_comp-modified.png" width="70%">
+    </div>
+    <div class="column-contact" style="width:75%;">
+      <p style="padding-left:10px;">We are a group of experienced instructors and college students dedicated to providing well-planned, dynamic, and comprehensive plans and mentorship to help students learn new subjects, improve academic performance, or restructure foundational knowledge.</p> 
+    </div>
+  </div>
+</section>
+<hr>
+
+<section>
+  <div class="row">
+    <h3 style="padding-left:10px;">What does Aleph mean?</h3>
+  </div>
   <div class="row">
     <div class="column-contact" style="width:75%;">
       <p style="padding-left:25px;">Mathematics has existed as one big global collaborative project long before its 
       compartmentalization into the standardized school curriculum. From the concept of zero from the ancient near east, to modern studies devoted to different sizes of infinity, called <b>aleph numbers</b>.</p> 
-      <p style="padding-left:25px;">In the early 20th century, one of these informal institutions devoted to set theory and aleph numbers had attracted students and teachers devoted to the idea of <b>self-discovery</b>, <b>knowledge for the sake of knowledge</b>, and <b>de-mystifying the abstract</b>. We hope to emulate these principles to guide students to academic excellence in a variety of subjects.</p> 
+      <p style="padding-left:25px;">In the early 20th century, an informal institution devoted to set theory and aleph numbers had attracted students and teachers devoted to ideas of <b>self-discovery</b>, <b>knowledge for the sake of knowledge</b>, and <b>de-mystifying the abstract</b>. We hope to emulate these principles to guide students to academic excellence in all subjects.</p> 
     </div>
     <div class="column-contact" style="padding-left:80px;width:25%;padding-top:20px;">
       <img src="assets\images\640px-Aleph0.svg.png" width="100%">
@@ -84,24 +101,10 @@ feature_row:
 </section>
 <hr>
 
-### Who are we?
-<section>
-  <div class="row">
-    <div class="column-contact" style="padding-left:50px;width:25%;">
-      <img src="assets\images\fullbarns_comp.png" width="70%">
-    </div>
-    <div class="column-contact" style="width:75%;">
-      <p style="padding-left:10px;">We are a group of experienced instructors dedicated to providing well-planned, dynamic, and comprehensive plans to introduce new subjects, improve a student's academic performance, or restructure foundational knowledge.</p> 
-    </div>
-  </div>
-</section>
-<hr>
 
 ### Contact
-
-<p style="padding-left:25px;">If you are interested in signing up, or for any questions regarding curriculum or pricing, please contact us below. We look forward to supporting you or your student accomplish all academic goals!</p> 
-
 <section>
+  <p style="padding-left:25px;">If you are interested in signing up, or for any questions regarding curriculum or pricing, please contact us below. We look forward to supporting you or your student accomplish all academic goals!</p> 
 	<div class="row" style="background-color:#F2F3F3;">
     <div class="column-contact">
       <form action="https://formspree.io/f/xjvlwbzp" method="POST">
